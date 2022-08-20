@@ -1,0 +1,6 @@
+# Ignore the following files/patterns when converting Wikilinks to Markdown links
+*.pdf
+*.png
+*.jpg
+*.gif
+*.bmp
